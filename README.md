@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abaduna
+- 👋 Hi, I’m FullStack
 - 👀 I’m interested in job
 - 🌱 I’m currently learning JS
 
