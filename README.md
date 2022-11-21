@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FullStack
+- 👋 Hi, I’m Front-end web development 
 - 👀 I’m interested in job
 - 🌱 I’m currently learning JS
 
