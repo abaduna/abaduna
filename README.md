@@ -2,6 +2,7 @@
 
 ### 👩‍💻 Full Stack Developer | Java | Spring Boot | Node.js | React | AWS
 
+✨ *"La tecnología no solo cambia el mundo, también nos transforma a nosotros mismos."* ✨
 ---
 
 ¡Bienvenid@ a mi perfil de GitHub! 🚀  
@@ -32,9 +33,8 @@ Soy una desarrolladora apasionada por la tecnología, con experiencia en el desa
 ---
 
 ### 🌍 Conecta conmigo:
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/arturobaduna/)
-- **Correo**: [TuCorreo@example.com](mailto:arturobaduna@gmail.com)
+- **LinkedIn**: [Arturo Baduna](https://www.linkedin.com/in/arturobaduna/)
+- **Correo**: [arturobaduna@gmail.com](mailto:arturobaduna@gmail.com)
 
 ---
 
-✨ *"La tecnología no solo cambia el mundo, también nos transforma a nosotros mismos."* ✨
