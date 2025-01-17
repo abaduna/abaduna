@@ -1,10 +1,40 @@
-- 👋 Hi, I’m Front-end web development 
-- 👀 I’m interested in job
-- 🌱 I’m currently learning JS
+# ¡Hola! 👋 Soy Arthur
 
-- 📫 How to reach me arturobaduna@gmail.com
+### 👩‍💻 Full Stack Developer | Java | Spring Boot | Node.js | React | AWS
 
-<!---
-abaduna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+¡Bienvenid@ a mi perfil de GitHub! 🚀  
+Soy una desarrolladora apasionada por la tecnología, con experiencia en el desarrollo de aplicaciones completas, desde el backend hasta el frontend. Mi enfoque es crear soluciones eficientes, elegantes y escalables, siempre con una gran dosis de disciplina y entusiasmo.
+
+---
+
+### 🚀 Tecnologías y Herramientas
+- **Backend**: Java  (Spring Boot), Node.js (Express)
+- **Frontend**: React, Next.js, HTML, CSS
+- **DevOps y Nube**: AWS (EC2, S3, RDS)
+- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+- **Control de Versiones**: Git, GitHub
+
+---
+
+### 🌟 ¿Por qué elegirme?
+- **Disciplina y Pasión**: Me encanta lo que hago y siempre busco aprender y mejorar.
+- **Orientación a resultados**: Mis proyectos están diseñados para resolver problemas reales de forma efectiva.
+- **Trabajo en equipo**: Colaborar y compartir conocimientos son mis valores fundamentales.
+
+---
+
+### 🌱 Actualmente estoy aprendiendo...
+- Implementación avanzada de CI/CD con Docker y Jenkins.
+
+
+---
+
+### 🌍 Conecta conmigo:
+- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/arturobaduna/)
+- **Correo**: [TuCorreo@example.com](mailto:arturobaduna@gmail.com)
+
+---
+
+✨ *"La tecnología no solo cambia el mundo, también nos transforma a nosotros mismos."* ✨
