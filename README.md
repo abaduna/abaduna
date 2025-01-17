@@ -13,7 +13,7 @@ Soy una desarrolladora apasionada por la tecnología, con experiencia en el desa
 ### 🚀 Tecnologías y Herramientas
 - **Backend**: Java  (Spring Boot), Node.js (Express)
 - **Frontend**: React, Next.js, HTML, CSS
-- - **Mobile**: Flutter
+- **Mobile**: Flutter
 - **DevOps y Nube**: AWS (EC2, S3, RDS)
 - **Bases de Datos**: MySQL, PostgreSQL, MongoDB
 - **Control de Versiones**: Git, GitHub
