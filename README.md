@@ -17,7 +17,7 @@ Soy una desarrolladora apasionada por la tecnología, con experiencia en el desa
 - **DevOps y Nube**: AWS (EC2, S3, RDS)
 - **Bases de Datos**: MySQL, PostgreSQL, MongoDB
 - **Control de Versiones**: Git, GitHub
-
+- **devops**: Docker, Kubernetes,microservicios
 ---
 
 ### 🌟 ¿Por qué elegirme?
@@ -25,13 +25,7 @@ Soy una desarrolladora apasionada por la tecnología, con experiencia en el desa
 - **Orientación a resultados**: Mis proyectos están diseñados para resolver problemas reales de forma efectiva.
 - **Trabajo en equipo**: Colaborar y compartir conocimientos son mis valores fundamentales.
 
----
 
-### 🌱 Actualmente estoy aprendiendo...
-- Implementación avanzada de CI/CD con Docker y Jenkins.
-
-
----
 
 ### 🌍 Conecta conmigo:
 - **LinkedIn**: [Arturo Baduna](https://www.linkedin.com/in/arturobaduna/)
